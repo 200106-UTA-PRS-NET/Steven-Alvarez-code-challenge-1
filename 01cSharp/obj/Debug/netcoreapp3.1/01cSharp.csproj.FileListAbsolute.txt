@@ -1,0 +1,11 @@
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.exe
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.deps.json
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.runtimeconfig.json
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.runtimeconfig.dev.json
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.dll
+C:\Revature\01cSharp\bin\Debug\netcoreapp3.1\01cSharp.pdb
+C:\Revature\01cSharp\obj\Debug\netcoreapp3.1\01cSharp.csprojAssemblyReference.cache
+C:\Revature\01cSharp\obj\Debug\netcoreapp3.1\01cSharp.AssemblyInfoInputs.cache
+C:\Revature\01cSharp\obj\Debug\netcoreapp3.1\01cSharp.AssemblyInfo.cs
+C:\Revature\01cSharp\obj\Debug\netcoreapp3.1\01cSharp.dll
+C:\Revature\01cSharp\obj\Debug\netcoreapp3.1\01cSharp.pdb
