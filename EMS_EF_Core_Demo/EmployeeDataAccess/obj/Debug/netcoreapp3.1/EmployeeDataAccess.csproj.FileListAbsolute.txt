@@ -1,0 +1,5 @@
+C:\Revature\EMS_EF_Core_Demo\EmployeeDataAccess\bin\Debug\netcoreapp3.1\EmployeeDataAccess.deps.json
+C:\Revature\EMS_EF_Core_Demo\EmployeeDataAccess\bin\Debug\netcoreapp3.1\EmployeeDataAccess.dll
+C:\Revature\EMS_EF_Core_Demo\EmployeeDataAccess\obj\Debug\netcoreapp3.1\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Revature\EMS_EF_Core_Demo\EmployeeDataAccess\obj\Debug\netcoreapp3.1\EmployeeDataAccess.AssemblyInfoInputs.cache
+C:\Revature\EMS_EF_Core_Demo\EmployeeDataAccess\obj\Debug\netcoreapp3.1\EmployeeDataAccess.AssemblyInfo.cs

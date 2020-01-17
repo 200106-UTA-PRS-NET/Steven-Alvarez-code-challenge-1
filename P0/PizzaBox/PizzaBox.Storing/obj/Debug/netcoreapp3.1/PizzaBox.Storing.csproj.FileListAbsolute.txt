@@ -1,0 +1,7 @@
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\bin\Debug\netcoreapp3.1\PizzaBox.Storing.deps.json
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\bin\Debug\netcoreapp3.1\PizzaBox.Storing.dll
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\obj\Debug\netcoreapp3.1\PizzaBox.Storing.csprojAssemblyReference.cache
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\obj\Debug\netcoreapp3.1\PizzaBox.Storing.AssemblyInfoInputs.cache
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\obj\Debug\netcoreapp3.1\PizzaBox.Storing.AssemblyInfo.cs
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\bin\Debug\netcoreapp3.1\PizzaBox.Storing.runtimeconfig.json
+C:\Revature\P0\PizzaBox\PizzaBox.Storing\bin\Debug\netcoreapp3.1\PizzaBox.Storing.runtimeconfig.dev.json
